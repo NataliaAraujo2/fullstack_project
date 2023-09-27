@@ -13,3 +13,5 @@ Passo 6 SERVER - Instala o express na pasta server ( npm install --save express 
         SERVER - Instala o knex na pasta server ( npm install knex --save )
         SERVER - Instala o mysql2 na pasta server ( npm install mysql2 )
 Passo 7 - SERVER - Cria o arquivo .gitignore.
+Passo 8 - SERVER - Cria o arquivo index.js.
+
